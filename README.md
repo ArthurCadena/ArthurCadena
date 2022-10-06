@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArthurCadena
 - 👀 I am interested in videogames, sports, technology, reading, music and science.
-- 🌱 I’m currently learning Django, Ux/Ui and Blender modeling 3d 
+- 🌱 I’m currently learning Django, Ux/Ui and Blender modeling 3d and BioInformatic
 - 💞️ I’m looking to collaborate on SmileySoft
 - 📫 How to reach me githubsmiley@gmail.com
 
