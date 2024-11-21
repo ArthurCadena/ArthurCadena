@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ArthurCadena
+- I have been a computer technician since I was 15 and a programming technician since I was 17.
 - 👀 I am interested in videogames, sports, technology, reading, music and science.
 - 🌱 am a very active user of Python and Linux
 - 💞️ I’m looking to collaborate on SmileySoft
